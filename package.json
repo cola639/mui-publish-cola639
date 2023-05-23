@@ -32,9 +32,6 @@
   ],
   "author": "cola639",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
   "homepage": "",
   "peerDependencies": {
     "@emotion/react": "^11.10.5",
@@ -65,7 +62,7 @@
     "@types/react-dom": "^18.0.10",
     "autoprefixer": "^10.4.13",
     "react": "^18.2.0",
-    "rollup": "^3.9.1",
+    "rollup": "^2.66.1",
     "rollup-plugin-sourcemaps": "^0.6.3",
     "rollup-plugin-styles": "^4.0.0",
     "rollup-plugin-svg": "^2.0.0",
