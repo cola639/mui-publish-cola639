@@ -1,6 +1,6 @@
 {
   "name": "mui-cola638",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "🗃️ mui-cola638",
   "main": "dist/index.esm.js",
   "module": "dist/index.umd.js",
@@ -33,14 +33,14 @@
   "author": "cola639",
   "license": "MIT",
   "homepage": "",
-  "peerDependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
-    "@mui/icons-material": "^5.11.0",
-    "@mui/material": "^5.11.2",
-    "@types/react": "^18.0.26",
-    "prop-types": "^15.8.1"
-  },
+  // "peerDependencies": {
+  //   "@emotion/react": "^11.10.5",
+  //   "@emotion/styled": "^11.10.5",
+  //   "@mui/icons-material": "^5.11.0",
+  //   "@mui/material": "^5.11.2",
+  //   "@types/react": "^18.0.26",
+  //   "prop-types": "^15.8.1"
+  // },
   "sideEffects": false,
   "peerDependenciesMeta": {
     "@types/react": {
@@ -68,5 +68,13 @@
     "rollup-plugin-svg": "^2.0.0",
     "rollup-plugin-terser": "^7.0.2",
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.2",
+    "@types/react": "^18.0.26",
+    "prop-types": "^15.8.1"
   }
 }
